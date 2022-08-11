@@ -10,9 +10,9 @@ An investor considering opening a business in Oahu, Hawaii has requested informa
 - The recorded temperatures ranged from 64 to 85 degrees in June, and from 56 to 83 degrees in December.
 - More temperatures were recorded in June (1,700) than in December (1,517)
 
-![june summary](/images/june_summary.png) ![dec summary](/images/dec_summary.png)
+![june summary](/Images/june_summary.png) ![dec summary](/Images/dec_summary.png)
 
-![june hist](/images/june_hist.png) ![dec hist](/images/dec_hist.png)
+![june hist](/Images/june_hist.png) ![dec hist](/Images/dec_hist.png)
 
 ## Summary
 
